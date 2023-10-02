@@ -4,5 +4,3 @@ Adding a new line
 
 New line - 3rd commit
 
-A fourth line - illustrate Git Diff
-
